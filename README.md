@@ -4,15 +4,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/wajeedd/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/wajeedd/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/wajeedd/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/wajeedd/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/wajeedd/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/wajeedd/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/wajeedd/leetcode/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/wajeedd/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
