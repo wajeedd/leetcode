@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/wajeedd/leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/wajeedd/leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/wajeedd/leetcode/tree/master/0337-house-robber-iii) |
+| [0547-number-of-provinces](https://github.com/wajeedd/leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/wajeedd/leetcode/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/wajeedd/leetcode/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/wajeedd/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
