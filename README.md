@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/wajeedd/leetcode/tree/master/0015-3sum) |
+| [0051-n-queens](https://github.com/wajeedd/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/wajeedd/leetcode/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/wajeedd/leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/wajeedd/leetcode/tree/master/0217-contains-duplicate) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/wajeedd/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/wajeedd/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
