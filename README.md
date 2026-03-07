@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/wajeedd/leetcode/tree/master/0279-perfect-squares) |
+| [1518-water-bottles](https://github.com/wajeedd/leetcode/tree/master/1518-water-bottles) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/wajeedd/leetcode/tree/master/0994-rotting-oranges) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/wajeedd/leetcode/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
