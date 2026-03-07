@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/wajeedd/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/wajeedd/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/wajeedd/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0994-rotting-oranges](https://github.com/wajeedd/leetcode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/wajeedd/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/wajeedd/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/wajeedd/leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/wajeedd/leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wajeedd/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search
 |  |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/wajeedd/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
