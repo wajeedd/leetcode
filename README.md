@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/wajeedd/leetcode/tree/master/1518-water-bottles) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/wajeedd/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
