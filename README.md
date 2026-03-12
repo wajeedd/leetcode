@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/wajeedd/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/wajeedd/leetcode/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/wajeedd/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/wajeedd/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/wajeedd/leetcode/tree/master/0279-perfect-squares) |
 | [1518-water-bottles](https://github.com/wajeedd/leetcode/tree/master/1518-water-bottles) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/wajeedd/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/wajeedd/leetcode/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/wajeedd/leetcode/tree/master/0595-big-countries) |
+## Combinatorics
+|  |
+| ------- |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/wajeedd/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/wajeedd/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
