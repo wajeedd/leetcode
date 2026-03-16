@@ -53,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/wajeedd/leetcode/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/wajeedd/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/wajeedd/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/wajeedd/leetcode/tree/master/0207-course-schedule) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/wajeedd/leetcode/tree/master/0337-house-robber-iii) |
 ## Hash Table
 |  |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/wajeedd/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
