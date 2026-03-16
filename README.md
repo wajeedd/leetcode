@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/wajeedd/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/wajeedd/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0994-rotting-oranges](https://github.com/wajeedd/leetcode/tree/master/0994-rotting-oranges) |
+| [1124-longest-well-performing-interval](https://github.com/wajeedd/leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/wajeedd/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/wajeedd/leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/wajeedd/leetcode/tree/master/0217-contains-duplicate) |
+| [1124-longest-well-performing-interval](https://github.com/wajeedd/leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Trie
 |  |
 | ------- |
@@ -173,4 +175,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [1124-longest-well-performing-interval](https://github.com/wajeedd/leetcode/tree/master/1124-longest-well-performing-interval) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1124-longest-well-performing-interval](https://github.com/wajeedd/leetcode/tree/master/1124-longest-well-performing-interval) |
+## Prefix Sum
+|  |
+| ------- |
+| [1124-longest-well-performing-interval](https://github.com/wajeedd/leetcode/tree/master/1124-longest-well-performing-interval) |
 <!---LeetCode Topics End-->
