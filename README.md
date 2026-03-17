@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/wajeedd/leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/wajeedd/leetcode/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/wajeedd/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/wajeedd/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/wajeedd/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/wajeedd/leetcode/tree/master/0217-contains-duplicate) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/wajeedd/leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/wajeedd/leetcode/tree/master/0279-perfect-squares) |
 | [1518-water-bottles](https://github.com/wajeedd/leetcode/tree/master/1518-water-bottles) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/wajeedd/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/wajeedd/leetcode/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/wajeedd/leetcode/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
