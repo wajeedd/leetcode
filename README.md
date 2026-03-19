@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/wajeedd/leetcode/tree/master/0337-house-robber-iii) |
+| [0938-range-sum-of-bst](https://github.com/wajeedd/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/wajeedd/leetcode/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/wajeedd/leetcode/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/wajeedd/leetcode/tree/master/0547-number-of-provinces) |
+| [0938-range-sum-of-bst](https://github.com/wajeedd/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wajeedd/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/wajeedd/leetcode/tree/master/0337-house-robber-iii) |
+| [0938-range-sum-of-bst](https://github.com/wajeedd/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/wajeedd/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Linked List
 |  |
 | ------- |
