@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/wajeedd/leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/wajeedd/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/wajeedd/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/wajeedd/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/wajeedd/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/wajeedd/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## String
 |  |
