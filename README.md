@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/wajeedd/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/wajeedd/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/wajeedd/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/wajeedd/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/wajeedd/leetcode/tree/master/0078-subsets) |
@@ -147,12 +148,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/wajeedd/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/wajeedd/leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/wajeedd/leetcode/tree/master/0217-contains-duplicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/wajeedd/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/wajeedd/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/wajeedd/leetcode/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/wajeedd/leetcode/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
