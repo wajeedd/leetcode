@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/wajeedd/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wajeedd/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/wajeedd/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
