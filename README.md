@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wajeedd/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/wajeedd/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/wajeedd/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/wajeedd/leetcode/tree/master/0139-word-break) |
 | [1108-defanging-an-ip-address](https://github.com/wajeedd/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/wajeedd/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/wajeedd/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/wajeedd/leetcode/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/wajeedd/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/wajeedd/leetcode/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
