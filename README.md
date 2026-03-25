@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/wajeedd/leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/wajeedd/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/wajeedd/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/wajeedd/leetcode/tree/master/0207-course-schedule) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/wajeedd/leetcode/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/wajeedd/leetcode/tree/master/0337-house-robber-iii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/wajeedd/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/wajeedd/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/wajeedd/leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/wajeedd/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/wajeedd/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/wajeedd/leetcode/tree/master/0207-course-schedule) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/wajeedd/leetcode/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/wajeedd/leetcode/tree/master/0337-house-robber-iii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/wajeedd/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/wajeedd/leetcode/tree/master/0938-range-sum-of-bst) |
