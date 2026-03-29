@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/wajeedd/leetcode/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/wajeedd/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/wajeedd/leetcode/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/wajeedd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/wajeedd/leetcode/tree/master/0217-contains-duplicate) |
 | [1124-longest-well-performing-interval](https://github.com/wajeedd/leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Trie
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/wajeedd/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/wajeedd/leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/wajeedd/leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/wajeedd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/wajeedd/leetcode/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/wajeedd/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0141-linked-list-cycle](https://github.com/wajeedd/leetcode/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
 |  |
 | ------- |
