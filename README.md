@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/wajeedd/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/wajeedd/leetcode/tree/master/0139-word-break) |
+| [0168-excel-sheet-column-title](https://github.com/wajeedd/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1108-defanging-an-ip-address](https://github.com/wajeedd/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/wajeedd/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Tree
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/wajeedd/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/wajeedd/leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/wajeedd/leetcode/tree/master/0279-perfect-squares) |
 | [1518-water-bottles](https://github.com/wajeedd/leetcode/tree/master/1518-water-bottles) |
