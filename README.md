@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/wajeedd/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/wajeedd/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/wajeedd/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0739-daily-temperatures](https://github.com/wajeedd/leetcode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/wajeedd/leetcode/tree/master/0994-rotting-oranges) |
 | [1124-longest-well-performing-interval](https://github.com/wajeedd/leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Dynamic Programming
@@ -241,10 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/wajeedd/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/wajeedd/leetcode/tree/master/0739-daily-temperatures) |
 | [1124-longest-well-performing-interval](https://github.com/wajeedd/leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/wajeedd/leetcode/tree/master/0739-daily-temperatures) |
 | [1124-longest-well-performing-interval](https://github.com/wajeedd/leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Prefix Sum
 |  |
