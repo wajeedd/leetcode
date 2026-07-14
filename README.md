@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/wajeedd/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wajeedd/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/wajeedd/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/wajeedd/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/wajeedd/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/wajeedd/leetcode/tree/master/0139-word-break) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/wajeedd/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wajeedd/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/wajeedd/leetcode/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/wajeedd/leetcode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/wajeedd/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/wajeedd/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/wajeedd/leetcode/tree/master/0141-linked-list-cycle) |
@@ -260,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wajeedd/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/wajeedd/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/wajeedd/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
