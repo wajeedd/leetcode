@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/wajeedd/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/wajeedd/leetcode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/wajeedd/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/wajeedd/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/wajeedd/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/wajeedd/leetcode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/wajeedd/leetcode/tree/master/0134-gas-station) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/wajeedd/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/wajeedd/leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/wajeedd/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/wajeedd/leetcode/tree/master/0198-house-robber) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/wajeedd/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/wajeedd/leetcode/tree/master/0134-gas-station) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/wajeedd/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Math
