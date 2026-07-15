@@ -1,9 +1,5 @@
 class Solution(object):
     def rob(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
         prev1 = 0  
         prev2 = 0  
         
